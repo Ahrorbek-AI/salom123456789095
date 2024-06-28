@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.d1{
+display: inline;
+margin: 0px 4;
+}
+.d2{
+    display: inline;
+margin: 0px 4px;
+    }
+    .d3{
+        display: inline;
+        margin: 0px 4px;
+    }
+    .d5{
+        display: inline;
+    }
+    .d6{
+        display: inline;
+    }
+    .d7{
+    display: inline;
+    }
+    .d8{
+        display: inline;
+        }
+.div90{
+text-align: center;
+}
+
+main{
+    background-color: #F5F6F8;
+}
+
+
+
+
+
+
+
+
+
