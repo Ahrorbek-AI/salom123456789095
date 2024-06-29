@@ -33,10 +33,61 @@ margin: 0px 4px;
 text-align: center;
 }
 
-main{
+
+
+section {
+    padding: 10px 25px;
+}
+
+.community {
+    width: 424px;
+    /* height: 174px; */
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
     background-color: #F5F6F8;
 }
 
+.community__text {
+    width: 180px;
+
+}
+
+.community__text h1 {
+
+    font-family: 'Poppins';
+    /* font-size: 16px; */
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    color: #0B0B0B;
+    margin-bottom: 12px;
+
+}
+
+.community__text P {
+    font-family: 'Poppins';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: #292929;
+    
+
+}
+
+.community img{
+    width: 126px;
+    height: 126px;
+}
+.cection{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+}
 
 
 
